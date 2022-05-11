@@ -5,7 +5,7 @@ Library    String
 
 
 *** Test Cases ***
-Search with product name
+TC_Search_002 Search with product name
 
     # Open browser with chrome
     Open Browser  https://www.officemate.co.th/en  chrome
